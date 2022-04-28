@@ -15,7 +15,7 @@ uid: 87c494a8-d966-4f98-b2d4-9295e2b7c05a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/Agglmy1yO4o/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: https://ocw-live-qa.global.ssl.fastly.net/courses/aws_mediaconvert_transcodes/mb-april12a/1P7WiIWEgrVJtDQnF93P7OFDIetz37AP8/small_360p_16_9
 video_metadata:
   video_speakers: ''
   video_tags: ''
