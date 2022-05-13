@@ -15,6 +15,10 @@
     "website": "mb-april12a"
   },
   "course_title": "Time Travel 101",
+  "publish_metadata": {
+    "s3_path": "courses/mb-april-5-site",
+    "url_path": "tryagain"
+  },
   "course_description": "hahahha123",
   "department_numbers": [
     "3"
